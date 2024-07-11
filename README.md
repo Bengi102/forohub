@@ -17,3 +17,4 @@ El proyecto hace uso de diversas tecnologías y herramientas indispensables:
 - **Lombok**: Para la reducción de código en la creación de getters y setters,
 - **Flyway**: Para la migración y versionado de la base de datos.
 - **Swagger**: Para la documentación automática de la API.
+---------------------------------En construcciobn-----------------------------------
